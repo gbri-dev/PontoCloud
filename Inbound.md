@@ -51,3 +51,7 @@ Chave public key
 C:\Users\user/.ssh/id rsa.pub
 
 Copie a chave dentro do arquivo e cole o codigo no git github.com/settings/ssh/new
+
+
+Vamos criar uma branch para as lading pages:
+git checkout -b lading-page
